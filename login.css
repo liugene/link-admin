@@ -1,0 +1,144 @@
+#content {
+    background: #fff;
+    font: 14px "Microsoft YaHei";
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+}
+
+.login-header {
+    padding: 20px 0;
+    width: 100%;
+}
+
+.login-header .login-logo {
+    margin: 0 auto;
+    width: 1180px;
+}
+
+.login-footer {
+    padding: 20px 0;
+    width: 100%;
+}
+
+.login-footer .footer-content {
+    margin: 0 auto;
+    width: 1180px;
+}
+
+.login-footer .footer-content .footer-text {
+    text-align: center;
+}
+
+.login-footer .footer-content .footer-text p {
+    margin-top: 7px;
+    font-size: 14px;
+    color: #666;
+}
+
+.login-header .login-logo span {
+    background: url(http://imgcdn.cuzhe.com/67tuiimg/uc-logo.png) no-repeat;
+    display: inline-block;
+    height: 48px;
+    width: 168px;
+}
+
+.login-content {
+    height: 645px;
+    position: relative;
+    width: 100%;
+}
+
+.login-content .login-bg {
+    background-image: url(http://imgcdn.cuzhe.com/67tuiimg/login-bg.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 645px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.login-content .login-center {
+    height: 645px;
+    margin: 0 auto;
+    max-width: 1220px;
+    position: relative;
+}
+
+.login-content .login-layout {
+    background: #fff;
+    position: absolute;
+    right: 0;
+    top: 106.5px;
+    width: 345px;
+    z-index: 10;
+    opacity: 0.92;
+}
+
+.login-content .login-layout .login-title {
+    overflow: hidden;
+    padding: 25px;
+}
+
+.login-content .login-layout h1 {
+    font-size: 20px;
+    padding: 20px 0;
+}
+
+.login-content .login-layout .login-input-box {
+    overflow: hidden;
+    padding: 25px;
+}
+
+.login-content .login-layout .login-input-box .login-input-main {
+    min-height: 220px;
+    padding: 0;
+    width: auto;
+}
+
+.login-content .login-layout .login-input-box .login-input-main .login-input-field {
+    background: #fff;
+    border: 2px solid #e6e6e6;
+    margin-bottom: 18px;
+}
+
+.login-content .login-layout .login-input-box .login-input-main .submit {
+    border: none;
+}
+
+.login-content .login-layout .login-input-box .login-input-main .login-input-field .login-icon {
+    margin-left: 6px;
+}
+
+.login-content .login-layout .login-input-box .login-input-main .login-input-field .login-input-bg {
+    height: 48px;
+}
+
+.login-content .login-layout .login-input-box .login-input-main .login-input-field .login-input-bg .input-bg {
+    background: none;
+    border: 0;
+    font-size: 16px;
+    margin: 4px 4px 3px;
+    outline: none;
+    width: 230px;
+    height: 21px;
+    padding: 6px 7px;
+    line-height: 20px;
+}
+
+.login-content .login-layout .login-input-box .login-input-main .login-input-field .login-submit {
+    background: #3c99ff;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 14px;
+    height: 40px;
+    line-height: 40px;
+    text-indent: 0;
+    width: 100%;
+    cursor: pointer;
+    text-align: center;
+}
