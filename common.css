@@ -62,3 +62,15 @@ a {
     margin: 12px;
     border-radius: 4px;
 }
+
+.input-none {
+    border: none!important;
+}
+
+.input-logo {
+    height: 190px!important;
+}
+
+.inline-logo {
+    line-height: 190px!important;
+}
