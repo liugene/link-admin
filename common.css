@@ -74,3 +74,28 @@ a {
 .inline-logo {
     line-height: 190px!important;
 }
+
+.link-info-box {
+    text-align: center;
+}
+
+.link-info-box .link-info {
+    width: 60%;
+    margin: 26px auto;
+}
+
+.link-box {
+    margin-top: 16px!important;
+}
+
+.link-table-header {
+    background-color: #fff!important;
+}
+
+.link-table {
+    width: 100%!important;
+}
+
+.link-table thead tr {
+    background-color: #fff!important;
+}
